@@ -6,7 +6,7 @@
 
 - 🎓 I'm currently pursuing **Bachelor Of Technology in CSE from Lovely Professional University**
 
-- 👨‍💻 I’m currently learning **Data Structures, Web developement and UI/UX Design**
+- 👨‍💻 I’m currently learning **Cyber Security, Data Structures, Web developement and UI/UX Design**
 
 - 📫 How to reach me **shivangimaurya1807@gmail.com**
 
