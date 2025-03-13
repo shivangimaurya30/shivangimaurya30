@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently learning **Data Structures, Web developement and UI/UX Design**
 
-- 📫 How to reach me **shivangimaurya1807@gmail.com**
+- 📫 How to reach me **shivangimaurya3002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
